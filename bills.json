@@ -1,0 +1,21 @@
+{
+	"Team": {"name":"Bills"},
+
+	"QB": {"name": "Josh Allen","short": 85,"medium":86,"long": 79,"pa":76,"run":81},
+	
+	"RB": {"name": "Frank Gore", "ovr": 81 },
+	
+	"Receivers": [
+	
+		
+		{"position": "WR1", "name": "John Brown", "ovr": 79},
+		
+		{"position": "WR2", "name": "Robert Foster", "ovr": 72},
+	
+		{"position": "SLOT", "name": "Cole Beasley", "ovr": 83},
+		
+		{"position": "TE", "name": "Tyler Kroft", "ovr": 78}
+		
+		]
+	
+}

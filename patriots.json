@@ -1,20 +1,20 @@
 {
 	"Team": {"name":"Patriots"},
 
-	"QB": {"name": "Tom Brady","short": 75,"medium":70,"long": 70,"pa":75,"run":30},
+	"QB": {"name": "Tom Brady","short": 99,"medium":98,"long": 89,"pa":99,"run":30},
 	
-	"RB": {"name": "James White", "ovr": 83 },
+	"RB": {"name": "James White", "ovr": 86 },
 	
 	"Receivers": [
 	
 		
-		{"position": "WR1", "name": "Julian Edleman", "ovr": 88},
+		{"position": "WR1", "name": "Julian Edleman", "ovr": 89},
 		
-		{"position": "WR2", "name": "Eric Decker", "ovr": 84},
+		{"position": "WR2", "name": "Josh Gordon", "ovr": 83},
 	
-		{"position": "SLOT", "name": "Chris Hogan", "ovr": 83},
+		{"position": "SLOT", "name": "Phillip Dorsett", "ovr": 77},
 		
-		{"position": "TE", "name": "Rob Gronkowski", "ovr": 99}
+		{"position": "TE", "name": "Benjamin Watson", "ovr": 82}
 		
 		]
 	
