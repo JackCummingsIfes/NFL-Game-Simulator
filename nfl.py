@@ -5,16 +5,14 @@ import time
 import calendar;
 import time;
 
-arquivo = open('arquivo.txt','wt')
-
 #---------------Import Team Files
 HomeTeamFile = input("Home Team: ")
 AwayTeamFile = input("Away Team: ")
+#---------------Open File to Save Game Log
 arquivo = open(AwayTeamFile + '_@_'+ HomeTeamFile + '_' + str(calendar.timegm(time.gmtime())) +'.txt','w+')
 HomeTeamFile += ".json"
 AwayTeamFile += ".json"
 
-arquivo = open(HomeTeamFile+'_'+ AwayTeamFile + '.txt','w+')
 with open(AwayTeamFile) as data_file:    
     data_away = json.load(data_file)
 
